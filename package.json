@@ -1,0 +1,21 @@
+{
+  "name": "estudoestruturas",
+  "version": "1.0.0",
+  "description": "estudoestruturas",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xCall/Estrutura-de-dados-e-algoritmos-com-JavaScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xCall/Estrutura-de-dados-e-algoritmos-com-JavaScript/issues"
+  },
+  "homepage": "https://github.com/xCall/Estrutura-de-dados-e-algoritmos-com-JavaScript#readme"
+}

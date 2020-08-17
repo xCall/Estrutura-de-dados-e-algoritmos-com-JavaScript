@@ -8,11 +8,15 @@ Book.prototype.printTitle = () => {
   console.log(this.title)
 } */
 
-class Book {
+export default class Book {
   constructor(title, pages, isbn) {
     this.title = title
     this.pages = pages
     this.isbn = isbn
+  }
+
+  printTitle() {
+    return this.title
   }
 
   printIsbn() {
